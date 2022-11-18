@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StudyTimeWithFaceDetection/static/css/main.0f539aab.css",
+    "main.js": "/StudyTimeWithFaceDetection/static/js/main.bb638410.js",
+    "static/js/787.4d0cd0ca.chunk.js": "/StudyTimeWithFaceDetection/static/js/787.4d0cd0ca.chunk.js",
+    "index.html": "/StudyTimeWithFaceDetection/index.html",
+    "main.0f539aab.css.map": "/StudyTimeWithFaceDetection/static/css/main.0f539aab.css.map",
+    "main.bb638410.js.map": "/StudyTimeWithFaceDetection/static/js/main.bb638410.js.map",
+    "787.4d0cd0ca.chunk.js.map": "/StudyTimeWithFaceDetection/static/js/787.4d0cd0ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f539aab.css",
+    "static/js/main.bb638410.js"
+  ]
+}
